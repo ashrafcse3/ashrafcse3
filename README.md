@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello, I am Ashraful Alam
+### I am Ashraful Alam
 - 🌱 I’m currently learning react, express js and mongodb
 - 👯 I’m looking to collaborate on any project built by react
 - 🤔 I’m looking for help with any project built by react
