@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ashrafcse3@gmail.com
 - ⚡ Fun fact: ...
 -->
+
+### Hello, I am Ashraful Alam
+- 🌱 I’m currently learning react, express js and mongodb
+- 👯 I’m looking to collaborate on any project built by react
+- 🤔 I’m looking for help with any project built by react
+- 💬 Ask me about my projects or to work with me
+- 📫 How to reach me: ashrafcse3@gmail.com
