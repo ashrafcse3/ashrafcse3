@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with any project built by react
 - 💬 Ask me about my projects or to work with me
 - 📫 How to reach me: ashrafcse3@gmail.com
+
+* [My resume](https://github.com/ashrafcse3/ashrafcse3/blob/main/it-resume-ashraful-alam.pdf)
