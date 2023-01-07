@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about my projects or to work with me
 - 📫 How to reach me: ashrafcse3@gmail.com
 
-* [My resume](https://github.com/ashrafcse3/ashrafcse3/blob/main/it-resume-ashraful-alam.pdf)
+* [CV of me](https://github.com/ashrafcse3/ashrafcse3/blob/main/IT%20CV%20of%20Ashraful%20Alam%20v3.0.pdf)
